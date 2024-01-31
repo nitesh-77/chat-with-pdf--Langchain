@@ -1,0 +1,8 @@
+PyPDF2==3.0.1
+streamlit
+python-dotenv==1.0.0
+faiss-cpu==1.7.4
+streamlit-extras
+tiktoken 
+langchain
+openai==0.28.1
